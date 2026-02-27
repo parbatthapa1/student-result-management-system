@@ -11,7 +11,6 @@ This project includes 6 python scripts that demonstrate how to interact with a G
 5. `report.py`
 6. `create_db.py`
 
-### 1. dashboard.py
 - This script is the dashboard of Student Result Management System containing buttons, images, labels and clock.
 - The screen shows the options for `Course`, `Student`, `Result`, `View Result` and `Exit`
 - This screen also updates timely as you perform operations on any of these Labels.
