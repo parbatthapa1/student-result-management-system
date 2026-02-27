@@ -17,7 +17,6 @@ This project includes 6 python scripts that demonstrate how to interact with a G
 
 ![alt text](image.png)
 
-### 2. course.py
 - This screen collects and shows the complete data regarding the student `course`.
 - Buttons are functionalised accordingly.
 - You can search any course through its `course name`.
