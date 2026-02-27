@@ -33,7 +33,6 @@ This project includes 6 python scripts that demonstrate how to interact with a G
 
 ![alt text](image-2.png)
 
-### 4. result.py
 - This screen collects the `result` of a student by its roll no.
 - Buttons are functionalised accordingly.
 
