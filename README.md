@@ -23,7 +23,6 @@ This project includes 6 python scripts that demonstrate how to interact with a G
 
 ![alt text](image-1.png)
 
-### 3. student.py
 - This screen collects and shows the complete data regarding `students`.
 - Buttons are functionalised accordingly.
 - You can search a particular student details by `roll no.`.
