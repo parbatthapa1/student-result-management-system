@@ -42,7 +42,6 @@ This project includes 6 python scripts that demonstrate how to interact with a G
 
 ![alt text](image-4.png)
 
-### 6. creat_db.py
 - This is the database file for all the tables.
 - You have to run this file `first` before running the `dashboard.py` file otherwise it will throw an error.
 
