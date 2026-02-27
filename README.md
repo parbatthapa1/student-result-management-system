@@ -35,7 +35,6 @@ This project includes 6 python scripts that demonstrate how to interact with a G
 
 ![alt text](image-3.png)
 
-### 5. report.py
 - This screen shows the complete `report` of student marks.
 - Buttons are functionalised accordingly.
 - You can search a particular student report through `roll no.`.
